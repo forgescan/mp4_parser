@@ -1,0 +1,12 @@
+{
+  "name": "key-frame-parser",
+  "version": "0.0.0",
+  "description": "key-frame-parser",
+  "main": "server.js",
+	"author": {
+		"name": "fjdslkjaf"
+	},
+	"dependencies": {
+		"express": "4.13.4"
+	}
+}
